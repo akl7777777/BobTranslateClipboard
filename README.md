@@ -49,4 +49,8 @@ brew install pngpaste
 ![iShot_2023-02-28_21 43 54](https://user-images.githubusercontent.com/84266551/221872349-5a738976-542d-4fbd-8de5-731f12b2a6ee.gif)
 
 
+### 开发不易,如果喜欢可以请作者喝一杯可乐,谢谢!
+
+
+![image](https://user-images.githubusercontent.com/84266551/219829283-3ed1798e-aeed-4174-bbcb-f93bf3008817.png)
 
