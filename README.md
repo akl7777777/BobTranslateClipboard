@@ -1,6 +1,25 @@
 # BobTranslateClipboard
 ### bob直接调用系统剪切板翻译图片的AlfredWorkflow
 
+### bob翻译插件大合集:
+
+>[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+
+>[有道翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
+
+>[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate)
+
+>[腾讯翻译君插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate)
+
+>[腾讯交互翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate)
+
+>[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
+
+>[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
+
+>[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
+
+
 当你用bob识图翻译的时候,是否遇到过这种尴尬的情况:
 
 浏览网页时,突然发现一张有趣的图,想截图通过聊天软件发给便宜,或者是直接复制网页图片发给朋友;发了之后才突然想起来,原来图片上有写外语不认识,好想翻译一下,但是又不想去聊天记录里面重新截取一遍;没错,这就是我的痛点,所以我弄了这个Alfred Workflow
