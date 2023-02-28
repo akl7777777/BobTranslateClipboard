@@ -7,6 +7,22 @@ bob直接调用系统剪切板翻译图片的AlfredWorkflow
 
 安装方式,下载双击直接导入Alfred
 
+使用前环境:
+1.有Python3的运行
+/usr/bin/pip3 install Pillow
+完成后即可开始使用
+
+2.没有Python的运行
+brew install pngpaste
+完成后把工作流的Python连线断开,把zsh连线连上就可以使用了,如下图:
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/84266551/221875258-6b85790b-fbe3-41cd-b2af-2e626bf6a937.png">
+
+
+
+使用方法:
+
+快捷键⌥option+v 直接识别剪切板翻译
+
 效果如下:
 
 ![iShot_2023-02-28_21 43 54](https://user-images.githubusercontent.com/84266551/221872349-5a738976-542d-4fbd-8de5-731f12b2a6ee.gif)
