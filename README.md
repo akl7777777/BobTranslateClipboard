@@ -19,6 +19,8 @@
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
+>[bob直接调用系统剪切板翻译图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
+
 
 当你用bob识图翻译的时候,是否遇到过这种尴尬的情况:
 
