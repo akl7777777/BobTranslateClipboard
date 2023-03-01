@@ -1,6 +1,11 @@
 # BobTranslateClipboard
 ### bob直接调用系统剪切板翻译图片的AlfredWorkflow
 
+### 无需Alfred也能快捷键调用脚本了
+
+![image](https://user-images.githubusercontent.com/84266551/222148759-6cd395f2-318c-4ce4-b4a5-2ea8e968102f.png)
+
+
 ### bob翻译插件大合集:
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
