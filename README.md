@@ -32,7 +32,7 @@
 
 使用前环境:
 1.有Python3的运行
-/usr/bin/pip3 install Pillow
+/usr/bin/pip3 install pillow
 完成后即可开始使用
 
 2.没有Python的运行
