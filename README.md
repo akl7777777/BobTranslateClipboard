@@ -3,6 +3,17 @@
 
 ### 无需Alfred也能快捷键调用脚本了
 
+使用前环境: 1.有Python3的运行 /usr/bin/pip3 install pillow 完成后即可开始使用
+
+苹果原生下载地址:[Bob.workflow-apple.zip](https://github.com/akl7777777/BobTranslateClipboard/releases/download/v0.0.1/Bob.workflow-apple.zip)
+
+使用方法:
+1.双击安装
+2.打开服务,找到通用,设置快捷键如下图:
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/84266551/222150342-d38452c0-7c18-4486-b4ae-5b02f93bf80a.png">
+
+
+
 ![image](https://user-images.githubusercontent.com/84266551/222148759-6cd395f2-318c-4ce4-b4a5-2ea8e968102f.png)
 
 
