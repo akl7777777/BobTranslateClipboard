@@ -20,8 +20,10 @@ Host = "iam.volcengineapi.com"
 ContentType = "application/x-www-form-urlencoded"
 
 # 请求的凭证，从IAM或者STS服务中获取
-AK = "AKLTZW**********"
-SK = "WmpGaV**********"
+AK = "AKLTZWNjO**********"
+SK = "WmpGaVl6S**********"
+
+
 # 当使用临时凭证时，需要使用到SessionToken传入Header，并计算进SignedHeader中，请自行在header参数中添加X-Security-Token头
 # SessionToken = ""
 
@@ -131,7 +133,7 @@ def request(method, date, query, header, ak, sk, action, body):
         signature,
     )
     header = {**header, **sign_result}
-    #"" header = {**header, **{"X-Security-Token": SessionToken}}
+    # "" header = {**header, **{"X-Security-Token": SessionToken}}
     # 第六步：将 Signature 签名写入 HTTP Header 中，并发送 HTTP 请求。
     r = requests.request(method=method,
                          url="https://{}{}".format(request_param["host"], request_param["path"]),
@@ -167,13 +169,24 @@ if __name__ == "__main__":
                                 "MultiLanguageOCR", dumps)
         print(response_body)
 
+        concatStr = ""
+        # 判断键是否存在
+        if 'data' not in response_body or 'ocr_infos' not in response_body['data']:
+            print("识别失败")
+            exit(1)
+
+        # 遍历识别结果,拼接到concatStr中
+        for item in response_body['data']['ocr_infos']:
+            if 'text' in item:
+                # 替换所有换行符
+                # item['text'] = item['text'].replace("\r", "")
+                concatStr += item['text'] + "\n"
+        # concatStr = response_body['data']['ocr_infos'][0]['text']
         script = '''
 tell application id "com.hezongyidev.Bob"
 	launch
 	translate "%s"
 end tell
-    	''' % (response_body['data']['ocr_infos'][0]['text'])
+    	''' % concatStr
         process = subprocess.Popen(["osascript", "-e", script])
         process.wait()
-
-
