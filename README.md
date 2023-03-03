@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/84266551/222148759-6cd395f2-318c-4ce4-b4a5-2ea8e968102f.png)
 
-#### 社区版Bob的福音,也能用了
+#### 社区版Bob的福音,社区版也能用了
 
 按照下面的步骤配置一下:
 
