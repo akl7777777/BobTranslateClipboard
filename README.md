@@ -26,7 +26,9 @@
 
 >3.菜单栏选择文件->打开...->找到刚刚下载解压的自动文件打开
 
->4.在运行shell脚本的框中粘贴这段代码(注意:代码中的ak和sk需要自行去火山官网申请,然后在代码中替换成自己的,申请方法见Bob官网)
+>4.在运行shell脚本的框中粘贴这段代码[apple_for_bob_community.py](https://github.com/akl7777777/BobTranslateClipboard/blob/main/apple_for_bob_community.py)
+
+(**注意:代码中的ak和sk需要自行去火山官网申请,然后在代码中替换成自己的;**[申请教程](https://bobtranslate.com/service/ocr/volcengine.html)见Bob官网)
 
 >5.保存即可开始使用,跟商店版使用方式相同
 
