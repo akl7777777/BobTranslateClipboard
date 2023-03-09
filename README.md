@@ -32,25 +32,37 @@
 
 >5.保存即可开始使用,跟商店版使用方式相同
 
+### 友情链接==>ChatGPT免费桌面版客户端(支持Windows,macOS)
+下载地址:[OpenAI-ChatGPT免费桌面版客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+
 ### bob翻译插件大合集:
+
+>[OpenAI ChatGPT(免秘钥)插件](https://github.com/akl7777777/bob-plugin-akl-chatgpt-free-translate)
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
 >[有道翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
 
+>[CNKI学术翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-cnki-free-translate)
+
 >[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate)
+
+>[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
 >[腾讯翻译君插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate)
 
 >[腾讯交互翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate)
 
->[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
-
 >[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
+>[Papago Naver 韩语翻译(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-papago-free-translate)
+
 >[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
+
+>[Bob的Postman接口调试插件](https://github.com/akl7777777/bob-plugin-akl-postman)
+
 
 
 当你用bob识图翻译的时候,是否遇到过这种尴尬的情况:
